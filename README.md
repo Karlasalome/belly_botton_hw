@@ -62,7 +62,7 @@ The following task is completely optional and is very advanced.
 
 * Update the chart whenever a new sample is selected.
 
-![Weekly Washing Frequency Gauge](Images/gauge.png)
+<img width="384" alt="gauge" src="https://user-images.githubusercontent.com/46768393/62843554-a3ba9900-bc88-11e9-8ddb-4104c0eb1fe4.png">
 
 - - -
 
