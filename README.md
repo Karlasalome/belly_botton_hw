@@ -15,7 +15,7 @@ Use Plotly.js to build interactive charts for your dashboard.
 
   * Use `otu_labels` as the hovertext for the chart.
 
-  ![PIE Chart](Images/pie_chart.png)
+ ![pie_chart](https://user-images.githubusercontent.com/46768393/62843448-d9ab4d80-bc87-11e9-9dcc-7755d4fe9c37.png)
 
 * Create a Bubble Chart that uses data from your samples route (`/samples/<sample>`) to display each sample.
 
