@@ -39,8 +39,10 @@ Use Plotly.js to build interactive charts for your dashboard.
 
 * You are welcome to create any layout that you would like for your dashboard. An example dashboard page might look something like the following.
 
-![Example Dashboard Page](Images/dashboard_part1.png)
-![Example Dashboard Page](Images/dashboard_part2.png)
+![dashboard_part1](https://user-images.githubusercontent.com/46768393/62843614-1f1c4a80-bc89-11e9-9494-1ed3b30e791b.png)
+
+
+![dashboard_part2](https://user-images.githubusercontent.com/46768393/62843615-23486800-bc89-11e9-8df1-14465795e6d3.png)
 
 ## Step 2 - Heroku
 
