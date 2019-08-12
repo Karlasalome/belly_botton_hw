@@ -29,7 +29,7 @@ Use Plotly.js to build interactive charts for your dashboard.
 
   * Use `otu_labels` for the text values.
 
-  ![Bubble Chart](Images/bubble_chart.png)
+  <img width="1416" alt="bubble_chart" src="https://user-images.githubusercontent.com/46768393/62843518-550cff00-bc88-11e9-8653-83042eb6afe0.png">
 
 * Display the sample metadata from the route `/metadata/<sample>`
 
