@@ -1,7 +1,6 @@
 # Belly Button Biodiversity
 
-![Bacteria by filterforge.com](Images/bacteria_by_filterforgedotcom.jpg)
-
+![bacteria_by_filterforgedotcom](https://user-images.githubusercontent.com/46768393/62843398-8df8a400-bc87-11e9-8456-494883515f94.jpg)
 In this assignment, you will build an interactive dashboard to explore the [Belly Button Biodiversity DataSet](http://robdunnlab.com/projects/belly-button-biodiversity/).
 
 ## Step 1 - Plotly.js
