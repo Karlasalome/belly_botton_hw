@@ -1,4 +1,11 @@
-# Belly Button Biodiversity
+# https://dashboard.heroku.com/apps/biodiversity-kp
+## Deployed html with HEROKU
+![page1](https://user-images.githubusercontent.com/46768393/64025369-86038580-cb0a-11e9-932d-41c49de5c460.png)
+
+
+## Sample graph
+![sample 163 graph](https://user-images.githubusercontent.com/46768393/64025374-8b60d000-cb0a-11e9-83d0-aeb9b7dd7a2f.png)
+
 
 ![bacteria_by_filterforgedotcom](https://user-images.githubusercontent.com/46768393/62843398-8df8a400-bc87-11e9-8456-494883515f94.jpg)
 In this assignment, you will build an interactive dashboard to explore the [Belly Button Biodiversity DataSet](http://robdunnlab.com/projects/belly-button-biodiversity/).
