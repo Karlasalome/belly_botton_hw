@@ -7,9 +7,6 @@
 ![sample 163 graph](https://user-images.githubusercontent.com/46768393/64025374-8b60d000-cb0a-11e9-83d0-aeb9b7dd7a2f.png)
 
 
-![bacteria_by_filterforgedotcom](https://user-images.githubusercontent.com/46768393/62843398-8df8a400-bc87-11e9-8456-494883515f94.jpg)
-In this assignment, you will build an interactive dashboard to explore the [Belly Button Biodiversity DataSet](http://robdunnlab.com/projects/belly-button-biodiversity/).
-
 ## Step 1 - Plotly.js
 
 Use Plotly.js to build interactive charts for your dashboard.
