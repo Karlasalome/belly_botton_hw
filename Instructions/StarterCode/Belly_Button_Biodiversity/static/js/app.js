@@ -144,5 +144,4 @@ buildCharts(newSample);
 buildMetadata(newSample);
 
 }
-// Initialize the dashboard
-init();
+// Initialize the dashboardinit();
