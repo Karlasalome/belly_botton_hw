@@ -1,4 +1,4 @@
-# https://dashboard.heroku.com/apps/biodiversity-kp
+https://biodiversity-kp.herokuapp.com/
 ## Deployed html with HEROKU
 ![page1](https://user-images.githubusercontent.com/46768393/64025369-86038580-cb0a-11e9-932d-41c49de5c460.png)
 
@@ -58,7 +58,7 @@ Deploy your Flask app to Heroku.
 
 - - -
 
-## Advanced Challenge Assignment (Optional)
+# Advanced Challenge Assignment (Optional)
 
 The following task is completely optional and is very advanced.
 
